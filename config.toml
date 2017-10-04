@@ -1,4 +1,4 @@
-baseURL = "http://lisp-fun.bakketun.net/"
+baseURL = "://"
 languageCode = "en-us"
 title = "Common Lisp Fun"
 theme = "ananke"
