@@ -1,4 +1,12 @@
 baseURL = "/"
 languageCode = "en-us"
 title = "Common Lisp Fun"
-theme = "ananke"
+theme = "strange-case"
+pygmentsCodeFences = true
+
+[params]
+copyright = "© 2017 Thomas Bakketun"
+colorScheme="scheme-lightbrown"
+DateFormat = "2 Jan 2006"
+description = ""
+sidebarFreeText = ""
