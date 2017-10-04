@@ -1,0 +1,4 @@
+baseURL = "http://lisp-fun.bakketun.net/"
+languageCode = "en-us"
+title = "Common Lisp Fun"
+theme = "ananke"
