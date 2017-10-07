@@ -6,6 +6,8 @@ draft: false
 
 Hello World!
 
+This is an **example**:
+
 ```common-lisp
 (defun create-canonical-headers (headers)
   (merge-duplicate-headers
